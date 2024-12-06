@@ -411,5 +411,5 @@ class GracefulCMD:
 
 
 if __name__=="__main__":
-    main=GracefulCMD("/storage/emulated/0/MCandPHI/Code/Python/EmperorTsingSystem_cmdEdition/data.json")
+    main=GracefulCMD("data.json")
     main.main()
